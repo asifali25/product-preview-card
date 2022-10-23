@@ -29,7 +29,7 @@ Users should be able to:
 ![](./public/Screenshot%202022-10-23%20215139.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://asif-product-preview-card.netlify.app/](https://asif-product-preview-card.netlify.app/)
 
 ## My process
 
